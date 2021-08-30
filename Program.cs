@@ -4,6 +4,8 @@ namespace DIO.Series
 {
     class Program
     {
+		//TODO implementar opção de cadastro para filmes
+
         static SerieRepositorio repositorio = new SerieRepositorio();
         static void Main(string[] args)
         {
